@@ -1,0 +1,500 @@
+Uri: https://www.riddlerprotocol.com/
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\index.htm
+Content Type: text/html
+
+Uri: https://www.riddlerprotocol.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.riddlerprotocol.com/games
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\games.html
+Content Type: text/html
+
+Uri: https://www.riddlerprotocol.com/games/all
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\games\all.html
+Content Type: text/html
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F123123.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\123123-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2F1414v02.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\1414v02-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 10.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 10-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 14.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 14-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 21.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 21-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 23.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 23-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FAsset 24.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset 24-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FDesktop.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Desktop-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2Fgitbook_logo.png&w=32&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\gitbook_logo-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2Fgitbook_logo.png&w=48&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\gitbook_logo.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=%2Fimages%2FMobile.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Mobile-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2F4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\4-8RoLnCp1qPTCJFtmVoXGWR4zYne2VV-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2FAsset%25201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset%201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2FAsset%25201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ.png&w=128&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset%201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2FAsset%25201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ.png&w=64&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset%201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2FAsset%25201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\Asset%201-PK7MwslLkba8bE4qvGRVV6iGyMHIUJ-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=1080&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=1200&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=1920&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=2048&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=3840&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=640&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=750&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Fe-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk.png&w=828&q=100
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\e-vEqFVWaJ1rl1eZmHRkGa3y3TicD1xk-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=1080&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x-4.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=1200&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x-5.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=1920&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x-6.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=2048&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x-7.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=3840&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=640&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x-1.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x-2.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/image?url=https:%2F%2Fhebbkx1anhila5yf.public.blob.vercel-storage.com%2Ff-ByEkgM21D36Pd06WvYpeEjUUpgZU0x.png&w=828&q=75
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\f-ByEkgM21D36Pd06WvYpeEjUUpgZU0x-3.png
+Content Type: image/png
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/117-487bbb369330a07a.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\117-487bbb369330a07a.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/29-8455872d698fa49a.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\29-8455872d698fa49a.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/647-2e998f317cf97b35.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\647-2e998f317cf97b35.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/74-a8be44f2ab173fff.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\74-a8be44f2ab173fff.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/860-c29de9c1f59fbc02.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\860-c29de9c1f59fbc02.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/app/games/all/page-82d04dc68d6947cb.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\app\games\all\page-82d04dc68d6947cb.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/app/games/page-45920bc50c923fae.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\app\games\page-45920bc50c923fae.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/app/layout-ebb55a214aaef03e.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\app\layout-ebb55a214aaef03e.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/app/page-b16189d85849c983.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\app\page-b16189d85849c983.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/fd9d1056-f8b45c969a6a936c.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\fd9d1056-f8b45c969a6a936c.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/main-app-2dcde4753ea0d175.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\main-app-2dcde4753ea0d175.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/chunks/webpack-068d648fefe64869.js
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\chunks\webpack-068d648fefe64869.js
+Content Type: application/javascript
+
+Uri: https://www.riddlerprotocol.com/_next/static/css/a44f925ea44e59c9.css
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\css\a44f925ea44e59c9.css
+Content Type: text/css
+
+Uri: https://www.riddlerprotocol.com/_next/static/media/021bc4481ed92ece-s.woff2
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\media\021bc4481ed92ece-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.riddlerprotocol.com/_next/static/media/3f69592b2fe603c7-s.woff2
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\media\3f69592b2fe603c7-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.riddlerprotocol.com/_next/static/media/4f05ba3a6752a328-s.p.woff2
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\media\4f05ba3a6752a328-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.riddlerprotocol.com/_next/static/media/6325a8417175c41d-s.woff2
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\media\6325a8417175c41d-s.woff2
+Content Type: font/woff2
+
+Uri: https://www.riddlerprotocol.com/_next/static/media/99b7f73d5af7c3e2-s.woff2
+File Name: C:\Downloaded Web Sites\www.riddlerprotocol.com\_next\static\media\99b7f73d5af7c3e2-s.woff2
+Content Type: font/woff2
+
